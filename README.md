@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Sai Charan  <br>💻 Software Developer with 1+ year of experience building modern web applications  <br>⚛️ Specialized in React.js, Redux Toolkit, and JavaScript (ES6+)  <br>🌐 Experienced in integrating REST APIs and building scalable UI solutions  <br>🛠️ Also familiar with backend technologies like Node.js, Express, Python & Django  <br>🚀 Passionate about clean code, continuous learning, and real-world problem solving<br>
+👋 Hi, I'm Sai Charan  <br>💻 Software Developer with 2+ year of experience building modern web applications  <br>⚛️ Specialized in React.js, Redux Toolkit, and JavaScript (ES6+)  <br>🌐 Experienced in integrating REST APIs and building scalable UI solutions  <br>🛠️ Also familiar with backend technologies like Node.js, Express, Python & Django  <br>🚀 Passionate about clean code, continuous learning, and real-world problem solving<br>
 
 
 ## 🌐 Socials:
