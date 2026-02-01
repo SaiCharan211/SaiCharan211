@@ -1,10 +1,11 @@
 # 💫 About Me:
-I’m a Full Stack Software Engineer with 2+ years of experience building scalable, production-ready web applications. I specialize in crafting React.js frontends with robust state management and developing RESTful backend services using Node.js and Python (Django). I’ve worked on real-world systems like Retail ERP and Point-of-Sale (POS) platforms used in live business environments.<br><br> 🔭 Currently working on: Full-stack ERP & POS applications
-👯 Open to collaborate on: React, Node.js, Django & open-source projects
-🤝 Looking for help with: System design & scalable backend architectures
-🌱 Currently learning: Performance optimization & real-time systems
-💬 Ask me about: React, REST APIs, JWT auth, databases
-⚡ Fun fact: I enjoy refactoring code almost as much as writing it 😄
+I’m a Full Stack Software Engineer with 2+ years of experience building scalable, production-ready web applications. I specialize in crafting React.js frontends with robust state management and developing RESTful backend services using Node.js and Python (Django). I’ve worked on real-world systems like Retail ERP and Point-of-Sale (POS) platforms used in live business environments.<br><br> 
+🔭 Currently working on: Full-stack ERP & POS applications <br><br> 
+👯 Open to collaborate on: React, Node.js, Django & open-source projects<br><br> 
+🤝 Looking for help with: System design & scalable backend architectures<br><br> 
+🌱 Currently learning: Performance optimization & real-time systems<br><br> 
+💬 Ask me about: React, REST APIs, JWT auth, databases<br><br> 
+⚡ Fun fact: I enjoy refactoring code almost as much as writing it 😄<br><br> 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sai-charan12) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:poosalasaicharan7@gmail.com) 
