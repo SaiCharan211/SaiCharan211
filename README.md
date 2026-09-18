@@ -1,15 +1,15 @@
-**👋 Hi, I'm Sai Charan
-💫 About Me**
+**👋 Hi, I'm Sai Charan <br>
+💫 About Me** <br>
 I'm a Data Engineer focused on building reliable, scalable, and production-ready data pipelines and backend data systems.
 
 I have experience developing software applications and working with databases, APIs, and backend services, and I'm currently transitioning my focus toward Data Engineering, ETL/ELT pipelines, data processing, and analytics infrastructure.
 
-🔭 **Currently working on:** Data pipelines, ETL/ELT workflows & data platforms
-🌱 **Currently learning:** Apache Spark, Airflow, cloud data engineering & data warehousing
-💬 **Ask me about:** Python, SQL, PostgreSQL, MySQL, REST APIs, ETL & databases
-👯 **Open to collaborate on:** Data Engineering, Python, SQL & open-source projects
-🤝 **Looking for help with:** Data architecture, distributed systems & scalable pipelines
-⚡ **Fun fact:** I enjoy turning messy data into something useful and structured 😄
+🔭 **Currently working on:** Data pipelines, ETL/ELT workflows & data platforms <br>
+🌱 **Currently learning:** Apache Spark, Airflow, cloud data engineering & data warehousing <br>
+💬 **Ask me about:** Python, SQL, PostgreSQL, MySQL, REST APIs, ETL & databases <br>
+👯 **Open to collaborate on:** Data Engineering, Python, SQL & open-source projects <br>
+🤝 **Looking for help with:** Data architecture, distributed systems & scalable pipelines <br>
+⚡ **Fun fact:** I enjoy turning messy data into something useful and structured 😄 <br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sai-charan12) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:poosalasaicharan7@gmail.com) 
