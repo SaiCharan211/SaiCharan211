@@ -1,11 +1,15 @@
-# 💫 About Me:
-I’m a Full Stack Software Engineer with 2+ years of experience building scalable, production-ready web applications. I specialize in crafting React.js frontends with robust state management and developing RESTful backend services using Node.js and Python (Django). I’ve worked on real-world systems like Retail ERP and Point-of-Sale (POS) platforms used in live business environments.<br><br> 
-🔭 Currently working on: Full-stack ERP & POS applications <br>
-👯 Open to collaborate on: React, Node.js, Django & open-source projects<br>
-🤝 Looking for help with: System design & scalable backend architectures<br>
-🌱 Currently learning: Performance optimization & real-time systems<br>
-💬 Ask me about: React, REST APIs, JWT auth, databases<br>
-⚡ Fun fact: I enjoy refactoring code almost as much as writing it 😄<br>
+**👋 Hi, I'm Sai Charan
+💫 About Me**
+I'm a Data Engineer focused on building reliable, scalable, and production-ready data pipelines and backend data systems.
+
+I have experience developing software applications and working with databases, APIs, and backend services, and I'm currently transitioning my focus toward Data Engineering, ETL/ELT pipelines, data processing, and analytics infrastructure.
+
+🔭 **Currently working on:** Data pipelines, ETL/ELT workflows & data platforms
+🌱 **Currently learning:** Apache Spark, Airflow, cloud data engineering & data warehousing
+💬 **Ask me about:** Python, SQL, PostgreSQL, MySQL, REST APIs, ETL & databases
+👯 **Open to collaborate on:** Data Engineering, Python, SQL & open-source projects
+🤝 **Looking for help with:** Data architecture, distributed systems & scalable pipelines
+⚡ **Fun fact:** I enjoy turning messy data into something useful and structured 😄
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sai-charan12) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:poosalasaicharan7@gmail.com) 
