@@ -1,27 +1,158 @@
-**👋 Hi, I'm Sai Charan <br>
-💫 About Me** <br>
-I'm a Data Engineer focused on building reliable, scalable, and production-ready data pipelines and backend data systems.
+👋 Hi, I'm Sai Charan
+💫 About Me
 
-I have experience developing software applications and working with databases, APIs, and backend services, and I'm currently transitioning my focus toward Data Engineering, ETL/ELT pipelines, data processing, and analytics infrastructure.
+I'm a Software Engineer transitioning into Data Engineering, with 2+ years of experience building production-ready applications, backend services, APIs, and database-driven systems.
 
-🔭 **Currently working on:** Data pipelines, ETL/ELT workflows & data platforms <br>
-🌱 **Currently learning:** Apache Spark, Airflow, cloud data engineering & data warehousing <br>
-💬 **Ask me about:** Python, SQL, PostgreSQL, MySQL, REST APIs, ETL & databases <br>
-👯 **Open to collaborate on:** Data Engineering, Python, SQL & open-source projects <br>
-🤝 **Looking for help with:** Data architecture, distributed systems & scalable pipelines <br>
-⚡ **Fun fact:** I enjoy turning messy data into something useful and structured 😄 <br>
+I'm currently focused on building reliable data pipelines, ETL/ELT workflows, data processing systems, and scalable data architectures using Python and SQL.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sai-charan12) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:poosalasaicharan7@gmail.com) 
+🔭 Currently working on: Data pipelines, ETL/ELT workflows & data platforms
+🌱 Currently learning: Apache Spark, Apache Airflow, Data Warehousing & Cloud Data Engineering
+💬 Ask me about: Python, SQL, PostgreSQL, MySQL, REST APIs, ETL & Databases
+👯 Open to collaborate on: Data Engineering, Python, SQL & Open Source projects
+🤝 Looking for help with: Data Architecture, Distributed Systems & Scalable Data Pipelines
+⚡ Fun fact: I enjoy turning messy data into something useful and structured 😄
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SaiCharan211&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=SaiCharan211&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SaiCharan211&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+🌐 Connect With Me
 
----
-[![](https://visitcount.itsvg.in/api?id=SaiCharan211&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+💻 Data Engineering Tech Stack
+🐍 Programming & Querying
+
+
+
+
+🔄 Data Engineering
+
+
+
+
+
+⚙️ Data Processing & Orchestration
+
+
+
+
+
+🗄️ Databases
+
+
+
+
+
+☁️ Cloud & Infrastructure
+
+
+
+
+
+🔌 Backend & APIs
+
+
+
+
+
+🛠️ Development Tools
+
+
+
+
+
+
+🚀 Data Engineering Focus
+
+I'm currently building my expertise across the modern data engineering stack:
+
+              Data Sources
+                   │
+        ┌──────────┴──────────┐
+        │                     │
+      APIs                 Databases
+        │                     │
+        └──────────┬──────────┘
+                   ↓
+             Data Ingestion
+                   ↓
+              ETL / ELT
+                   ↓
+          Data Transformation
+                   ↓
+        ┌─────────────────────┐
+        │                     │
+     PySpark              Python/SQL
+        │                     │
+        └──────────┬──────────┘
+                   ↓
+            Data Warehouse
+                   ↓
+          Analytics & BI
+
+📌 Featured Data Engineering Projects
+🔹 End-to-End ETL Pipeline
+
+Python • SQL • PostgreSQL • Airflow
+
+Extract data from APIs and external sources
+
+Clean and transform raw datasets
+
+Load processed data into PostgreSQL
+
+Schedule and orchestrate workflows with Airflow
+
+Implement logging and pipeline error handling
+
+🔹 Data Warehouse
+
+Python • SQL • PostgreSQL
+
+Design fact and dimension tables
+
+Implement dimensional modeling
+
+Build analytical SQL transformations
+
+Create structured datasets for reporting and analytics
+
+🔹 Retail / POS Data Pipeline
+
+Python • SQL • PostgreSQL
+
+Process retail transaction data
+
+Transform sales and inventory datasets
+
+Build reusable data pipelines
+
+Generate analytical datasets for business reporting
+
+📚 Currently Learning
+
+🐍 Advanced Python for Data Engineering
+
+🗄️ Advanced SQL & Query Optimization
+
+🔄 ETL / ELT Pipeline Design
+
+🏗️ Data Warehousing & Dimensional Modeling
+
+⚡ Apache Spark & PySpark
+
+🔧 Apache Airflow
+
+☁️ AWS Data Engineering
+
+📡 Batch & Real-Time Data Processing
+
+🏛️ Data Architecture & Distributed Systems
+
+🎯 Career Focus
+
+Data Engineer | Python | SQL | ETL/ELT | PySpark | Apache Airflow | PostgreSQL | Data Warehousing | AWS
+
+📊 GitHub Stats
+
+⭐ Thanks for visiting my profile!
+
+Feel free to explore my repositories and connect with me if you're interested in Data Engineering, Python, SQL, data platforms, or open-source projects.
