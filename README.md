@@ -1,7 +1,7 @@
 👋 Hi, I'm Sai Charan
 💫 About Me
 
-I'm a Software Engineer transitioning into Data Engineering, with 2+ years of experience building production-ready applications, backend services, APIs, and database-driven systems.
+I'm a Software Engineer transitioning into Data Engineering, with 3+ years of experience building production-ready applications, backend services, APIs, and database-driven systems.
 
 I'm currently focused on building reliable data pipelines, ETL/ELT workflows, data processing systems, and scalable data architectures using Python and SQL.
 
